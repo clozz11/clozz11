@@ -26,8 +26,9 @@
 
 ### 🚀 Featured Projects
 
-* **[Edja Corner](https://github.com/clozz11/edja-corner)** — A full-stack minimarket management and POS web application (React, Node.js, Express, MySQL).
-* **[Nusa Fauna](https://github.com/clozz11/nusa-fauna)** — An AI-based web platform for identifying endangered Indonesian animals (Python, Streamlit, Machine Learning).
+* **[Edja Corner](https://github.com/clozz11/edja-corner)** — A full-stack minimarket management and POS web application (React, Node.js, Express, Sequelize, PostgreSQL).
+* **[LaundryYuk](https://github.com/clozz11/LaundrYuk)** — A laundry-service web application with customer ordering and admin order management (React, Express, MySQL).
+* **[Nusa Fauna](https://github.com/clozz11/Nusa-Fauna)** — A Python, FastAPI, and YOLO prototype for identifying Indonesian wildlife and reporting detections.
 
 ---
 
