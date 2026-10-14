@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Carlos! 🏀</h1>
+<h1 align="center">Hi, I'm Carlos! </h1>
 
 <div align="center">
   <em>Computer Science student, full-stack builder, and occasional basketball player.</em>
